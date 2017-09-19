@@ -1,0 +1,1006 @@
+[
+{
+  "RunningBacks": [
+   {
+     "player": "Kareem Hunt",
+     "location": "away",
+     "opponent": "NWE",
+     "week": 1,
+     "attempts": 17,
+     "yards": 148,
+     "yards-per-attempt": 8.71,
+     "touchdowns": 1
+   },
+   {
+     "player": "Dalvin Cook",
+     "location": "vs",
+     "opponent": "NOR",
+     "week": 1,
+     "attempts": 22,
+     "yards": 127,
+     "yards-per-attempt": 5.77,
+     "touchdowns": 0
+   },
+   {
+     "player": "LeSean McCoy",
+     "location": "vs",
+     "opponent": "NYJ",
+     "week": 1,
+     "attempts": 22,
+     "yards": 110,
+     "yards-per-attempt": 5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Ezekiel Elliott",
+     "location": "vs",
+     "opponent": "NYG",
+     "week": 1,
+     "attempts": 24,
+     "yards": 104,
+     "yards-per-attempt": 4.33,
+     "touchdowns": 0
+   },
+   {
+     "player": "Leonard Fournette",
+     "location": "away",
+     "opponent": "HOU",
+     "week": 1,
+     "attempts": 26,
+     "yards": 100,
+     "yards-per-attempt": 3.85,
+     "touchdowns": 1
+   },
+   {
+     "player": "C.J. Anderson",
+     "location": "vs",
+     "opponent": "LAC",
+     "week": 1,
+     "attempts": 20,
+     "yards": 81,
+     "yards-per-attempt": 4.05,
+     "touchdowns": 0
+   },
+   {
+     "player": "Terrance West",
+     "location": "away",
+     "opponent": "CIN",
+     "week": 1,
+     "attempts": 19,
+     "yards": 80,
+     "yards-per-attempt": 4.21,
+     "touchdowns": 1
+   },
+   {
+     "player": "Marshawn Lynch",
+     "location": "away",
+     "opponent": "TEN",
+     "week": 1,
+     "attempts": 18,
+     "yards": 76,
+     "yards-per-attempt": 4.22,
+     "touchdowns": 0
+   },
+   {
+     "player": "Javorius Allen",
+     "location": "away",
+     "opponent": "CIN",
+     "week": 1,
+     "attempts": 21,
+     "yards": 71,
+     "yards-per-attempt": 3.38,
+     "touchdowns": 0
+   },
+   {
+     "player": "Tarik Cohen",
+     "location": "vs",
+     "opponent": "ATL",
+     "week": 1,
+     "attempts": 5,
+     "yards": 66,
+     "yards-per-attempt": 13.2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Lamar Miller",
+     "location": "vs",
+     "opponent": "JAX",
+     "week": 1,
+     "attempts": 17,
+     "yards": 65,
+     "yards-per-attempt": 3.82,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jonathan Stewart",
+     "location": "away",
+     "opponent": "SFO",
+     "week": 1,
+     "attempts": 18,
+     "yards": 65,
+     "yards-per-attempt": 3.61,
+     "touchdowns": 0
+   },
+   {
+     "player": "Melvin Gordon",
+     "location": "away",
+     "opponent": "DEN",
+     "week": 1,
+     "attempts": 18,
+     "yards": 54,
+     "yards-per-attempt": 3,
+     "touchdowns": 0
+   },
+   {
+     "player": "Ty Montgomery",
+     "location": "vs",
+     "opponent": "SEA",
+     "week": 1,
+     "attempts": 19,
+     "yards": 54,
+     "yards-per-attempt": 2.84,
+     "touchdowns": 1
+   },
+   {
+     "player": "Jordan Howard",
+     "location": "vs",
+     "opponent": "ATL",
+     "week": 1,
+     "attempts": 13,
+     "yards": 52,
+     "yards-per-attempt": 4,
+     "touchdowns": 1
+   },
+   {
+     "player": "Christian McCaffrey",
+     "location": "away",
+     "opponent": "SFO",
+     "week": 1,
+     "attempts": 13,
+     "yards": 47,
+     "yards-per-attempt": 3.62,
+     "touchdowns": 0
+   },
+   {
+     "player": "LeGarrette Blount",
+     "location": "away",
+     "opponent": "WAS",
+     "week": 1,
+     "attempts": 14,
+     "yards": 46,
+     "yards-per-attempt": 3.29,
+     "touchdowns": 0
+   },
+   {
+     "player": "Mike Gillislee",
+     "location": "vs",
+     "opponent": "KAN",
+     "week": 1,
+     "attempts": 15,
+     "yards": 45,
+     "yards-per-attempt": 3,
+     "touchdowns": 3
+   },
+   {
+     "player": "Carlos Hyde",
+     "location": "vs",
+     "opponent": "CAR",
+     "week": 1,
+     "attempts": 9,
+     "yards": 45,
+     "yards-per-attempt": 5,
+     "touchdowns": 0
+   },
+   {
+     "player": "DeMarco Murray",
+     "location": "vs",
+     "opponent": "OAK",
+     "week": 1,
+     "attempts": 12,
+     "yards": 44,
+     "yards-per-attempt": 3.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Frank Gore",
+     "location": "away",
+     "opponent": "LAR",
+     "week": 1,
+     "attempts": 10,
+     "yards": 42,
+     "yards-per-attempt": 4.2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Chris Ivory",
+     "location": "away",
+     "opponent": "HOU",
+     "week": 1,
+     "attempts": 9,
+     "yards": 42,
+     "yards-per-attempt": 4.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Mike Tolbert",
+     "location": "vs",
+     "opponent": "NYJ",
+     "week": 1,
+     "attempts": 12,
+     "yards": 42,
+     "yards-per-attempt": 3.5,
+     "touchdowns": 1
+   },
+   {
+     "player": "Giovani Bernard",
+     "location": "vs",
+     "opponent": "BAL",
+     "week": 1,
+     "attempts": 7,
+     "yards": 40,
+     "yards-per-attempt": 5.71,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jamaal Charles",
+     "location": "vs",
+     "opponent": "LAC",
+     "week": 1,
+     "attempts": 10,
+     "yards": 40,
+     "yards-per-attempt": 4,
+     "touchdowns": 0
+   },
+   {
+     "player": "Todd Gurley",
+     "location": "vs",
+     "opponent": "IND",
+     "week": 1,
+     "attempts": 19,
+     "yards": 40,
+     "yards-per-attempt": 2.11,
+     "touchdowns": 1
+   },
+   {
+     "player": "Russell Wilson",
+     "location": "away",
+     "opponent": "GNB",
+     "week": 1,
+     "attempts": 2,
+     "yards": 40,
+     "yards-per-attempt": 20,
+     "touchdowns": 0
+   },
+   {
+     "player": "Chris Carson",
+     "location": "away",
+     "opponent": "GNB",
+     "week": 1,
+     "attempts": 6,
+     "yards": 39,
+     "yards-per-attempt": 6.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Tyrod Taylor",
+     "location": "vs",
+     "opponent": "NYJ",
+     "week": 1,
+     "attempts": 8,
+     "yards": 38,
+     "yards-per-attempt": 4.75,
+     "touchdowns": 0
+   },
+   {
+     "player": "James White",
+     "location": "vs",
+     "opponent": "KAN",
+     "week": 1,
+     "attempts": 10,
+     "yards": 38,
+     "yards-per-attempt": 3.8,
+     "touchdowns": 0
+   },
+   {
+     "player": "Devonta Freeman",
+     "location": "away",
+     "opponent": "CHI",
+     "week": 1,
+     "attempts": 12,
+     "yards": 37,
+     "yards-per-attempt": 3.08,
+     "touchdowns": 1
+   },
+   {
+     "player": "Isaiah Crowell",
+     "location": "vs",
+     "opponent": "PIT",
+     "week": 1,
+     "attempts": 17,
+     "yards": 33,
+     "yards-per-attempt": 1.94,
+     "touchdowns": 0
+   },
+   {
+     "player": "Le'Veon Bell",
+     "location": "away",
+     "opponent": "CLE",
+     "week": 1,
+     "attempts": 10,
+     "yards": 32,
+     "yards-per-attempt": 3.2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Ameer Abdullah",
+     "location": "vs",
+     "opponent": "ARI",
+     "week": 1,
+     "attempts": 15,
+     "yards": 30,
+     "yards-per-attempt": 2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Kirk Cousins",
+     "location": "vs",
+     "opponent": "PHI",
+     "week": 1,
+     "attempts": 4,
+     "yards": 30,
+     "yards-per-attempt": 7.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Robert Kelley",
+     "location": "vs",
+     "opponent": "PHI",
+     "week": 1,
+     "attempts": 10,
+     "yards": 30,
+     "yards-per-attempt": 3,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jeremy Hill",
+     "location": "vs",
+     "opponent": "BAL",
+     "week": 1,
+     "attempts": 6,
+     "yards": 26,
+     "yards-per-attempt": 4.33,
+     "touchdowns": 0
+   },
+   {
+     "player": "Marcus Mariota",
+     "location": "vs",
+     "opponent": "OAK",
+     "week": 1,
+     "attempts": 3,
+     "yards": 26,
+     "yards-per-attempt": 8.67,
+     "touchdowns": 1
+   },
+   {
+     "player": "Derrick Henry",
+     "location": "vs",
+     "opponent": "OAK",
+     "week": 1,
+     "attempts": 6,
+     "yards": 25,
+     "yards-per-attempt": 4.17,
+     "touchdowns": 0
+   },
+   {
+     "player": "Marlon Mack",
+     "location": "away",
+     "opponent": "LAR",
+     "week": 1,
+     "attempts": 10,
+     "yards": 24,
+     "yards-per-attempt": 2.4,
+     "touchdowns": 1
+   },
+   {
+     "player": "Dak Prescott",
+     "location": "vs",
+     "opponent": "NYG",
+     "week": 1,
+     "attempts": 3,
+     "yards": 24,
+     "yards-per-attempt": 8,
+     "touchdowns": 0
+   },
+   {
+     "player": "David Johnson",
+     "location": "away",
+     "opponent": "DET",
+     "week": 1,
+     "attempts": 11,
+     "yards": 23,
+     "yards-per-attempt": 2.09,
+     "touchdowns": 0
+   },
+   {
+     "player": "Bilal Powell",
+     "location": "away",
+     "opponent": "BUF",
+     "week": 1,
+     "attempts": 7,
+     "yards": 22,
+     "yards-per-attempt": 3.14,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jalen Richard",
+     "location": "away",
+     "opponent": "TEN",
+     "week": 1,
+     "attempts": 5,
+     "yards": 22,
+     "yards-per-attempt": 4.4,
+     "touchdowns": 0
+   },
+   {
+     "player": "Dwayne Washington",
+     "location": "vs",
+     "opponent": "ARI",
+     "week": 1,
+     "attempts": 6,
+     "yards": 22,
+     "yards-per-attempt": 3.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Aaron Rodgers",
+     "location": "vs",
+     "opponent": "SEA",
+     "week": 1,
+     "attempts": 7,
+     "yards": 21,
+     "yards-per-attempt": 3,
+     "touchdowns": 0
+   },
+   {
+     "player": "Charcandrick West",
+     "location": "away",
+     "opponent": "NWE",
+     "week": 1,
+     "attempts": 1,
+     "yards": 21,
+     "yards-per-attempt": 21,
+     "touchdowns": 1
+   },
+   {
+     "player": "Trevor Siemian",
+     "location": "vs",
+     "opponent": "LAC",
+     "week": 1,
+     "attempts": 6,
+     "yards": 19,
+     "yards-per-attempt": 3.17,
+     "touchdowns": 1
+   },
+   {
+     "player": "Alvin Kamara",
+     "location": "away",
+     "opponent": "MIN",
+     "week": 1,
+     "attempts": 7,
+     "yards": 18,
+     "yards-per-attempt": 2.57,
+     "touchdowns": 0
+   },
+   {
+     "player": "Adrian Peterson",
+     "location": "away",
+     "opponent": "MIN",
+     "week": 1,
+     "attempts": 6,
+     "yards": 18,
+     "yards-per-attempt": 3,
+     "touchdowns": 0
+   },
+   {
+     "player": "Chris Hogan",
+     "location": "vs",
+     "opponent": "KAN",
+     "week": 1,
+     "attempts": 3,
+     "yards": 17,
+     "yards-per-attempt": 5.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Mark Ingram",
+     "location": "away",
+     "opponent": "MIN",
+     "week": 1,
+     "attempts": 6,
+     "yards": 17,
+     "yards-per-attempt": 2.83,
+     "touchdowns": 0
+   },
+   {
+     "player": "DeShone Kizer",
+     "location": "vs",
+     "opponent": "PIT",
+     "week": 1,
+     "attempts": 5,
+     "yards": 17,
+     "yards-per-attempt": 3.4,
+     "touchdowns": 1
+   },
+   {
+     "player": "Malcolm Brown",
+     "location": "vs",
+     "opponent": "IND",
+     "week": 1,
+     "attempts": 7,
+     "yards": 16,
+     "yards-per-attempt": 2.29,
+     "touchdowns": 1
+   },
+   {
+     "player": "Tevin Coleman",
+     "location": "away",
+     "opponent": "CHI",
+     "week": 1,
+     "attempts": 8,
+     "yards": 16,
+     "yards-per-attempt": 2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Matt Forte",
+     "location": "away",
+     "opponent": "BUF",
+     "week": 1,
+     "attempts": 6,
+     "yards": 16,
+     "yards-per-attempt": 2.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Paul Perkins",
+     "location": "away",
+     "opponent": "DAL",
+     "week": 1,
+     "attempts": 7,
+     "yards": 16,
+     "yards-per-attempt": 2.29,
+     "touchdowns": 0
+   },
+   {
+     "player": "Deshaun Watson",
+     "location": "vs",
+     "opponent": "JAX",
+     "week": 1,
+     "attempts": 2,
+     "yards": 16,
+     "yards-per-attempt": 8,
+     "touchdowns": 0
+   },
+   {
+     "player": "Rex Burkhead",
+     "location": "vs",
+     "opponent": "KAN",
+     "week": 1,
+     "attempts": 3,
+     "yards": 15,
+     "yards-per-attempt": 5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Orleans Darkwa",
+     "location": "away",
+     "opponent": "DAL",
+     "week": 1,
+     "attempts": 3,
+     "yards": 14,
+     "yards-per-attempt": 4.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Matthew Stafford",
+     "location": "vs",
+     "opponent": "ARI",
+     "week": 1,
+     "attempts": 2,
+     "yards": 14,
+     "yards-per-attempt": 7,
+     "touchdowns": 0
+   },
+   {
+     "player": "Blake Bortles",
+     "location": "away",
+     "opponent": "HOU",
+     "week": 1,
+     "attempts": 3,
+     "yards": 13,
+     "yards-per-attempt": 4.33,
+     "touchdowns": 0
+   },
+   {
+     "player": "Tavon Austin",
+     "location": "vs",
+     "opponent": "IND",
+     "week": 1,
+     "attempts": 2,
+     "yards": 11,
+     "yards-per-attempt": 5.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Matt Breida",
+     "location": "vs",
+     "opponent": "CAR",
+     "week": 1,
+     "attempts": 4,
+     "yards": 11,
+     "yards-per-attempt": 2.75,
+     "touchdowns": 0
+   },
+   {
+     "player": "James Conner",
+     "location": "away",
+     "opponent": "CLE",
+     "week": 1,
+     "attempts": 4,
+     "yards": 11,
+     "yards-per-attempt": 2.75,
+     "touchdowns": 0
+   },
+   {
+     "player": "C.J. Prosise",
+     "location": "away",
+     "opponent": "GNB",
+     "week": 1,
+     "attempts": 4,
+     "yards": 11,
+     "yards-per-attempt": 2.75,
+     "touchdowns": 0
+   },
+   {
+     "player": "Matt Ryan",
+     "location": "away",
+     "opponent": "CHI",
+     "week": 1,
+     "attempts": 3,
+     "yards": 11,
+     "yards-per-attempt": 3.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "John Brown",
+     "location": "away",
+     "opponent": "DET",
+     "week": 1,
+     "attempts": 1,
+     "yards": 10,
+     "yards-per-attempt": 10,
+     "touchdowns": 0
+   },
+   {
+     "player": "Branden Oliver",
+     "location": "away",
+     "opponent": "DEN",
+     "week": 1,
+     "attempts": 4,
+     "yards": 10,
+     "yards-per-attempt": 2.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Kasey Redfern",
+     "location": "vs",
+     "opponent": "ARI",
+     "week": 1,
+     "attempts": 1,
+     "yards": 10,
+     "yards-per-attempt": 10,
+     "touchdowns": 0
+   },
+   {
+     "player": "Kerwynn Williams",
+     "location": "away",
+     "opponent": "DET",
+     "week": 1,
+     "attempts": 5,
+     "yards": 10,
+     "yards-per-attempt": 2,
+     "touchdowns": 1
+   },
+   {
+     "player": "Dion Lewis",
+     "location": "vs",
+     "opponent": "KAN",
+     "week": 1,
+     "attempts": 2,
+     "yards": 9,
+     "yards-per-attempt": 4.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Joe Mixon",
+     "location": "vs",
+     "opponent": "BAL",
+     "week": 1,
+     "attempts": 8,
+     "yards": 9,
+     "yards-per-attempt": 1.13,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jamaal Williams",
+     "location": "vs",
+     "opponent": "SEA",
+     "week": 1,
+     "attempts": 2,
+     "yards": 9,
+     "yards-per-attempt": 4.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Tyler Ervin",
+     "location": "vs",
+     "opponent": "JAX",
+     "week": 1,
+     "attempts": 3,
+     "yards": 8,
+     "yards-per-attempt": 2.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Michael Burton",
+     "location": "vs",
+     "opponent": "ATL",
+     "week": 1,
+     "attempts": 1,
+     "yards": 7,
+     "yards-per-attempt": 7,
+     "touchdowns": 0
+   },
+   {
+     "player": "Matthew Dayes",
+     "location": "vs",
+     "opponent": "PIT",
+     "week": 1,
+     "attempts": 3,
+     "yards": 7,
+     "yards-per-attempt": 2.33,
+     "touchdowns": 0
+   },
+   {
+     "player": "Golden Tate",
+     "location": "vs",
+     "opponent": "ARI",
+     "week": 1,
+     "attempts": 2,
+     "yards": 7,
+     "yards-per-attempt": 3.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Robert Turbin",
+     "location": "away",
+     "opponent": "LAR",
+     "week": 1,
+     "attempts": 2,
+     "yards": 7,
+     "yards-per-attempt": 3.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Latavius Murray",
+     "location": "vs",
+     "opponent": "NOR",
+     "week": 1,
+     "attempts": 2,
+     "yards": 6,
+     "yards-per-attempt": 3,
+     "touchdowns": 0
+   },
+   {
+     "player": "Sterling Shepard",
+     "location": "away",
+     "opponent": "DAL",
+     "week": 1,
+     "attempts": 1,
+     "yards": 6,
+     "yards-per-attempt": 6,
+     "touchdowns": 0
+   },
+   {
+     "player": "Carson Wentz",
+     "location": "away",
+     "opponent": "WAS",
+     "week": 1,
+     "attempts": 4,
+     "yards": 6,
+     "yards-per-attempt": 1.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Ted Ginn",
+     "location": "away",
+     "opponent": "MIN",
+     "week": 1,
+     "attempts": 1,
+     "yards": 5,
+     "yards-per-attempt": 5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Tyreek Hill",
+     "location": "away",
+     "opponent": "NWE",
+     "week": 1,
+     "attempts": 2,
+     "yards": 5,
+     "yards-per-attempt": 2.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jerick McKinnon",
+     "location": "vs",
+     "opponent": "NOR",
+     "week": 1,
+     "attempts": 3,
+     "yards": 5,
+     "yards-per-attempt": 1.67,
+     "touchdowns": 0
+   },
+   {
+     "player": "Cordarrelle Patterson",
+     "location": "away",
+     "opponent": "TEN",
+     "week": 1,
+     "attempts": 1,
+     "yards": 5,
+     "yards-per-attempt": 5,
+     "touchdowns": 0
+   },
+   {
+     "player": "D'Onta Foreman",
+     "location": "vs",
+     "opponent": "JAX",
+     "week": 1,
+     "attempts": 1,
+     "yards": 4,
+     "yards-per-attempt": 4,
+     "touchdowns": 0
+   },
+   {
+     "player": "Travis Kelce",
+     "location": "away",
+     "opponent": "NWE",
+     "week": 1,
+     "attempts": 1,
+     "yards": 4,
+     "yards-per-attempt": 4,
+     "touchdowns": 0
+   },
+   {
+     "player": "Wendell Smallwood",
+     "location": "away",
+     "opponent": "WAS",
+     "week": 1,
+     "attempts": 4,
+     "yards": 4,
+     "yards-per-attempt": 1,
+     "touchdowns": 0
+   },
+   {
+     "player": "De'Anthony Thomas",
+     "location": "away",
+     "opponent": "NWE",
+     "week": 1,
+     "attempts": 1,
+     "yards": 4,
+     "yards-per-attempt": 4,
+     "touchdowns": 0
+   },
+   {
+     "player": "Chris Thompson",
+     "location": "vs",
+     "opponent": "PHI",
+     "week": 1,
+     "attempts": 3,
+     "yards": 4,
+     "yards-per-attempt": 1.33,
+     "touchdowns": 0
+   },
+   {
+     "player": "DeAndre Washington",
+     "location": "away",
+     "opponent": "TEN",
+     "week": 1,
+     "attempts": 3,
+     "yards": 4,
+     "yards-per-attempt": 1.33,
+     "touchdowns": 0
+   },
+   {
+     "player": "Danny Woodhead",
+     "location": "away",
+     "opponent": "CIN",
+     "week": 1,
+     "attempts": 1,
+     "yards": 4,
+     "yards-per-attempt": 4,
+     "touchdowns": 0
+   },
+   {
+     "player": "Eddie Lacy",
+     "location": "away",
+     "opponent": "GNB",
+     "week": 1,
+     "attempts": 5,
+     "yards": 3,
+     "yards-per-attempt": 0.6,
+     "touchdowns": 0
+   },
+   {
+     "player": "Cam Newton",
+     "location": "away",
+     "opponent": "SFO",
+     "week": 1,
+     "attempts": 6,
+     "yards": 3,
+     "yards-per-attempt": 0.5,
+     "touchdowns": 0
+   },
+   {
+     "player": "Alex Smith",
+     "location": "away",
+     "opponent": "NWE",
+     "week": 1,
+     "attempts": 5,
+     "yards": 3,
+     "yards-per-attempt": 0.6,
+     "touchdowns": 0
+   },
+   {
+     "player": "Michael Campanaro",
+     "location": "away",
+     "opponent": "CIN",
+     "week": 1,
+     "attempts": 1,
+     "yards": 2,
+     "yards-per-attempt": 2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Derek Carr",
+     "location": "away",
+     "opponent": "TEN",
+     "week": 1,
+     "attempts": 2,
+     "yards": 2,
+     "yards-per-attempt": 1,
+     "touchdowns": 0
+   },
+   {
+     "player": "Andy Dalton",
+     "location": "vs",
+     "opponent": "BAL",
+     "week": 1,
+     "attempts": 1,
+     "yards": 2,
+     "yards-per-attempt": 2,
+     "touchdowns": 0
+   },
+   {
+     "player": "Jared Goff",
+     "location": "vs",
+     "opponent": "IND",
+     "week": 1,
+     "attempts": 1,
+     "yards": 2,
+     "yards-per-attempt": 2,
+     "touchdowns": 0
+   }
+ ]
+ }
+]
