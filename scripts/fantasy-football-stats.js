@@ -19,7 +19,7 @@ function loadJSON(callback) {
 }
 function init() {
   loadJSON(function(response){
-      var actual_JSON = JSON.parson(response);
+      var actual_JSON = JSON.parse(response);
       showRBs(actual_JSON);
   });
 }
