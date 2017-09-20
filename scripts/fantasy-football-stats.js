@@ -9,7 +9,7 @@ function loadJSON(callback) {
 
   var xobj = new XMLHttpRequest();
       xobj.overrideMimeType("application/json");
-      xobj.open('GET', 'data/Fantasy-Football-Stats-2017/week-1/rushing-week-1.json', true);
+      xobj.open('GET', 'assets/Fantasy-Football-Stats-2017/week-1/rushing-week-1.json', true);
       xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             callback(xobj.responseText);
@@ -23,6 +23,7 @@ function init() {
       showRBs(actual_JSON);
   });
 }
+init();
 //request.responseType = 'json';
 //request.send();
 
